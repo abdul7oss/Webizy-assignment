@@ -1,1 +1,0 @@
-# Webizy-assignment
