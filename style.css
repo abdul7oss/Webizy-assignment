@@ -227,7 +227,7 @@ header {
 
 
   .main-banner {
-    background-image: url("../images/banner.jpg");
+    background-image: url("images/banner.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     display: block;
@@ -476,7 +476,7 @@ img.image-position {
 .map-section {
   float: left;
   width: 100%;
-  background-image: url("../images/map.jpg");
+  background-image: url("images/map.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
